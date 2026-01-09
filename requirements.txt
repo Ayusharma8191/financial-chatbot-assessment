@@ -1,0 +1,4 @@
+pandas
+transformers
+torch
+#python 3.8 version
